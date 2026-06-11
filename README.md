@@ -7,8 +7,8 @@ An End-to-End Data Analysis project built to investigate employee attrition at I
 ## 📊 Dashboard Preview
 
 <p float="left">
-  <img src="image_12a419.png" width="49%" />
-  <img src="image_12832d.png" width="49%" />
+  <img src="Screenshots/Overview.png" width="49%" />
+  <img src="Screenshots/AtrittionAnalysis.png" width="49%" />
 </p>
 
 ---
